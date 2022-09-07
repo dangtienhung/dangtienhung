@@ -47,16 +47,6 @@
 </div>
 
 <br>
-<h2 align="center">💕 I have loved you for a long time! 💕</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="dangtienhung">
-    <img src="./images/animesher.com_crush-heart-love-1369602.gif" width="100%" alt="My Crush" align="center" style="border-radius: 8px;" />
-  </a>
-</div>
-
-<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -101,3 +91,21 @@
 <a href="#" target="_blank">
     <img src="svg/dangtienhung-quotes.svg" width="846" height="150" alt="dangtienhung" />
 </a>
+
+<br>
+<h2 align="center">💕 I have loved you for a long time! 💕</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="dangtienhung">
+    <foreignObject>
+        <style>
+            img {
+                border-radius: 10px;
+            }
+        </style>            
+        <img src="./images/animesher.com_crush-heart-love-1369602.gif" width="100%" alt="My Crush" align="center"/>
+    </foreignObject>
+
+  </a>
+</div>
