@@ -52,7 +52,7 @@
 <br>
 <div align=center>
   <a href="#" title="dangtienhung">
-    <img src="./images/animesher.com_crush-heart-love-1369602.gif" width="400" alt="My Crush" align="center" />
+    <img src="./images/animesher.com_crush-heart-love-1369602.gif" width="100%" alt="My Crush" align="center" style="border-radius: 8px;" />
   </a>
 </div>
 
