@@ -97,15 +97,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="dangtienhung">
-    <foreignObject>
-        <style>
-            img {
-                border-radius: 10px;
-            }
-        </style>            
-        <img src="./images/animesher.com_crush-heart-love-1369602.gif" width="100%" alt="My Crush" align="center"/>
-    </foreignObject>
-
+  <a href="#" title="dangtienhung">         
+    <img src="./images/animesher.com_crush-heart-love-1369602.gif" width="100%" alt="My Crush" align="center"/>
   </a>
 </div>
