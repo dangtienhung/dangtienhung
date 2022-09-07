@@ -75,17 +75,22 @@
 
 <p>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/danghung23624" target="_blank">https://www.facebook.com/danghung23624</a></strong>
+    <strong>🔗 Liên hệ với mình tại Facebook: 
+        <a href="https://www.facebook.com/danghung23624" target="_blank">
+            https://www.facebook.com/danghung23624
+        </a>
+    </strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:hungdt243@gmail.com" target="_top">hungdt243@gmail.com</a></strong>
+    <strong>📧 Hoặc Email: 
+        <a href="mailto:hungdt243@gmail.com" target="_top">
+            hungdt243@gmail.com
+        </a>
+    </strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+    <img src="svg/dangtienhung-quotes.svg" width="846" height="150" alt="dangtienhung" />
 </a>
