@@ -46,6 +46,10 @@
   </a>
 </div>
 
+<div align="center">
+    <img src="./images/animesher.com_crush-heart-love-1369602.gif" width="400" alt="My Crush" align="center" />
+</div>
+
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
