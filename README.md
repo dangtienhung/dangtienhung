@@ -12,6 +12,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Less-282C34?logo=less&logoColor=CC6699" alt="Less logo" title="Less" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
@@ -53,9 +55,6 @@
 <div align="center">
   <a href="https://www.facebook.com/danghung23624" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangtienhung-facebook" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCTQTSVbLoaZhTbPgoV1FCNA" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="dangtienhung-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/h%C6%B0ng-%C4%91%E1%BA%B7ng-142b39232/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dangtienhung-linkedin" />
