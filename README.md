@@ -15,8 +15,6 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Less-282C34?logo=less&logoColor=CC6699" alt="Less logo" title="Less" height="25" /></span>
-  &nbsp;
   <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
@@ -24,6 +22,8 @@
   <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/angular-282C34?logo=angular&logoColor=DD0031" alt="angular logo" title="Angular" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
   &nbsp;
@@ -72,7 +72,7 @@
     <a href="https://www.instagram.com/danghung_0204/" target="blank">
       <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dangtienhung-instagram" />
     </a>
-    <a href="mailto:hungdt243@gmail.com" target="top">
+    <a href="mailto:hungdang02042003@gmail.com" target="top">
       <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dangtienhung-email" />
     </a>
   </div>
@@ -83,15 +83,15 @@
 <div>
   <p>
     <br>
-      <strong>🔗 Liên hệ với mình tại Facebook: 
+      <strong>🔗 Liên hệ với mình tại Facebook:
           <a href="https://www.facebook.com/danghung23624" target="_blank">
               https://www.facebook.com/danghung23624
           </a>
       </strong>
     <br>
-      <strong>📧 Hoặc Email: 
-          <a href="mailto:hungdt243@gmail.com" target="_top">
-              hungdt243@gmail.com
+      <strong>📧 Hoặc Email:
+          <a href="mailto:hungdang02042003@gmail.com" target="_top">
+              hungdang02042003@gmail.com
           </a>
       </strong>
   </p>
@@ -109,7 +109,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="dangtienhung">         
+  <a href="#" title="dangtienhung">
     <img src="./images/animesher.com_crush-heart-love-1369602.gif" width="100%" alt="My Crush" align="center"/>
   </a>
 </div>
