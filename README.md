@@ -39,10 +39,10 @@
   &nbsp;
 </div>
 
-<br>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- <br>
 <div>
   <h2 align="center">🔥 GitHub Stats 🔥</h2>
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
   <br>
   <div align=center>
     <a href="#" title="dangtienhung">
@@ -55,7 +55,7 @@
 </div>
 <hr/>
 <hr/>
-<hr/>
+<hr/> -->
 
 <br>
 <div>
