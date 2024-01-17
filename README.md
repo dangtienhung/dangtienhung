@@ -58,27 +58,6 @@
 <hr/> -->
 
 <br>
-<div>
-  <h2 align="center">👽 Where to find me 👽</h2>
-  <br>
-  <!-- https://icons8.com -->
-  <div align="center">
-    <a href="https://www.facebook.com/danghung23624" target="blank">
-      <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangtienhung-facebook" />
-    </a>
-    <a href="https://www.linkedin.com/in/h%C6%B0ng-%C4%91%E1%BA%B7ng-142b39232/" target="blank">
-      <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dangtienhung-linkedin" />
-    </a>
-    <a href="https://www.instagram.com/danghung_0204/" target="blank">
-      <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dangtienhung-instagram" />
-    </a>
-    <a href="mailto:hungdang02042003@gmail.com" target="top">
-      <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dangtienhung-email" />
-    </a>
-  </div>
-</div>
-
-<br>
 
 <!-- <div>
   <p>
